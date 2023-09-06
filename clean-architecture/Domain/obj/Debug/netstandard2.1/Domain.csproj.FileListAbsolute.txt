@@ -1,0 +1,9 @@
+D:\Workspace\Projects\clean-Code\clean-architecture\clean-architecture\Domain\bin\Debug\netstandard2.1\Domain.deps.json
+D:\Workspace\Projects\clean-Code\clean-architecture\clean-architecture\Domain\bin\Debug\netstandard2.1\Domain.dll
+D:\Workspace\Projects\clean-Code\clean-architecture\clean-architecture\Domain\bin\Debug\netstandard2.1\Domain.pdb
+D:\Workspace\Projects\clean-Code\clean-architecture\clean-architecture\Domain\obj\Debug\netstandard2.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Projects\clean-Code\clean-architecture\clean-architecture\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfoInputs.cache
+D:\Workspace\Projects\clean-Code\clean-architecture\clean-architecture\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfo.cs
+D:\Workspace\Projects\clean-Code\clean-architecture\clean-architecture\Domain\obj\Debug\netstandard2.1\Domain.csproj.CoreCompileInputs.cache
+D:\Workspace\Projects\clean-Code\clean-architecture\clean-architecture\Domain\obj\Debug\netstandard2.1\Domain.dll
+D:\Workspace\Projects\clean-Code\clean-architecture\clean-architecture\Domain\obj\Debug\netstandard2.1\Domain.pdb

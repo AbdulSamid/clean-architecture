@@ -1,0 +1,13 @@
+D:\Workspace\Projects\clean-Code\clean-architecture\clean-architecture\Application\bin\Debug\netstandard2.1\Application.deps.json
+D:\Workspace\Projects\clean-Code\clean-architecture\clean-architecture\Application\bin\Debug\netstandard2.1\Application.dll
+D:\Workspace\Projects\clean-Code\clean-architecture\clean-architecture\Application\bin\Debug\netstandard2.1\Application.pdb
+D:\Workspace\Projects\clean-Code\clean-architecture\clean-architecture\Application\bin\Debug\netstandard2.1\Domain.dll
+D:\Workspace\Projects\clean-Code\clean-architecture\clean-architecture\Application\bin\Debug\netstandard2.1\Domain.pdb
+D:\Workspace\Projects\clean-Code\clean-architecture\clean-architecture\Application\obj\Debug\netstandard2.1\Application.csproj.AssemblyReference.cache
+D:\Workspace\Projects\clean-Code\clean-architecture\clean-architecture\Application\obj\Debug\netstandard2.1\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Projects\clean-Code\clean-architecture\clean-architecture\Application\obj\Debug\netstandard2.1\Application.AssemblyInfoInputs.cache
+D:\Workspace\Projects\clean-Code\clean-architecture\clean-architecture\Application\obj\Debug\netstandard2.1\Application.AssemblyInfo.cs
+D:\Workspace\Projects\clean-Code\clean-architecture\clean-architecture\Application\obj\Debug\netstandard2.1\Application.csproj.CoreCompileInputs.cache
+D:\Workspace\Projects\clean-Code\clean-architecture\clean-architecture\Application\obj\Debug\netstandard2.1\Application.csproj.CopyComplete
+D:\Workspace\Projects\clean-Code\clean-architecture\clean-architecture\Application\obj\Debug\netstandard2.1\Application.dll
+D:\Workspace\Projects\clean-Code\clean-architecture\clean-architecture\Application\obj\Debug\netstandard2.1\Application.pdb
